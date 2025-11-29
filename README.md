@@ -7,8 +7,9 @@ User makes a search query -> It hits an api ('search/') -> The string is sent to
 model generates a recommendation and user sees it on the frontend.
 
 # Snapshots
-    - User makes a query
+
+## User makes a query
 ![Capture](Snapshots/frontend.jpg)
 
-    - Recommendation based on that query
+## Recommendation based on that query
 ![Capture2](Snapshots/model_architecture.jpg)
