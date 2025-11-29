@@ -6,10 +6,10 @@
 User makes a search query -> It hits an api ('search/') -> The string is sent to the model ->
 model generates a recommendation and user sees it on the frontend.
 
-# Snapshots
 
-## User makes a query
-![Capture](Snapshots/frontend.jpg)
-
-## Recommendation based on that query
+## Mode Architecture 
 ![Capture2](Snapshots/model_architecture.jpg)
+
+# Snapshots
+## User makes a query and gets the recommendation
+![Capture](Snapshots/frontend.jpg)
